@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body{background:red; font-family: verdana; padding: 30px; color:#fff; }
+  h1{font-size:40px; text-transform: uppercase; text-align:center; text-spacing:2px; }
+  p{font-size:22px; text-align:center;}
+</style>
+</head>
+
+<body>
+  <h1>Welcome to this planet!!!</h1>
+  <p>This is the most beautiful planet you've ever seen!!!</p>
+</body>
+
+</html>
